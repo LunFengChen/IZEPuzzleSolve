@@ -37,7 +37,11 @@ bin
 intermediate
 .git
 .vs
+imgs/
 
+x64
 # imgs
 *.bmp
+
+
 
